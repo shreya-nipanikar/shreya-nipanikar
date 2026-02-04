@@ -1,37 +1,49 @@
-<!--
-**shreya-nipanikar/shreya-nipanikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Banner: put banner.png in /assets -->
+<!-- Banner: banner.png will be generated from assets/banner.svg by the workflow -->
 <img src="./assets/banner.png" alt="banner" width="100%" />
 
 # Hi 👋, I'm Shreya
-A passionate software engineer | Open Source | Web & Cloud
+**Java Full‑Stack Developer** • Spring Boot • React • Cloud
+
+A passionate engineer focused on building scalable backend services and responsive frontends. I work with Java, the Spring ecosystem, REST APIs, and modern web UI technologies.
 
 ---
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=shreya-nipanikar&theme=dark&no-frame=true" alt="trophies" />
+## Skills
+
+<!-- Languages & Platforms -->
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%2362C000?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%2362C000?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Postgres](https://img.shields.io/badge/Postgres-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%230075A8?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232b2b2f?style=for-the-badge&logo=githubactions&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23FF6B00?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-<!-- GitHub stats -->
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-nipanikar&show_icons=true&theme=dark)
+## Projects
+<!--PROJECTS_START-->
 
-<!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-nipanikar&layout=compact&theme=dark)
+<!-- Projects will be auto-populated here by the GitHub Action (top 6 repositories) -->
+
+<!--PROJECTS_END-->
+
+---
+
+## Featured Repos (pin these on your profile)
+Pin your most important repos using "Customize your profile" → Pinned repositories so they show as cards under your profile header.
 
 ---
 
 ## Connect with me
-- LinkedIn: https://www.linkedin.com/in/shreya-nipanikar/
+- LinkedIn: [shreya-nipanikar](https://www.linkedin.com/in/shreya-nipanikar/)
+- LeetCode: [ShreyaNipanikar](https://leetcode.com/u/ShreyaNipanikar/)
+- Email: nipanikar.shreya1@gmail.com
+
+---
+Notes:
+- The Projects block will be replaced by the workflow with your top 6 most recently pushed public repos (includes repo name, link, description, and star count if present).
+- The workflow will convert assets/banner.svg → assets/banner.png so the banner displays on your profile. If you want a different banner look I can generate a PNG now or adjust the SVG.
