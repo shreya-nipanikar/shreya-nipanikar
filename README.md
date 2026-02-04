@@ -2,7 +2,7 @@
 
 <picture>
   <source srcset="./assets/profile-animated.svg" type="image/svg+xml">
-  <img src="./assets/profile.jpg" alt="Shreya Nipanikar" width="220" />
+  <img src="./assets/profile.jpg" width="220" />
 </picture>
 
 # Hi 👋, I'm Shreya
