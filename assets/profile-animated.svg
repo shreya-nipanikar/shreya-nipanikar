@@ -57,7 +57,7 @@
 
   <!-- Make sure your file is named exactly assets/profile.jpg -->
   <g mask="url(#circleMask)">
-    <image class="profile" x="32" y="32" width="176" height="176" preserveAspectRatio="xMidYMid slice" href="./assets/profile.jpg" />
+    <image class="profile" x="32" y="32" width="176" height="176" preserveAspectRatio="xMidYMid slice" href="./profile.jpg" />
   </g>
 
   <ellipse cx="120" cy="208" rx="40" ry="6" fill="#000" opacity="0.12"/>
