@@ -2,7 +2,7 @@
 
 <picture>
   <source srcset="./assets/try.svg" type="image/svg+xml">
-  <img src="./assets/profile.jpg" width="1500" height="1000" />
+  <img src="./assets/profile.jpg" width="600" height="600" />
 </picture>
 
 # Hi 👋, I'm Shreya
