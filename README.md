@@ -1,5 +1,4 @@
 <!-- Banner: banner.png will be generated from assets/banner.svg by the workflow -->
-<img src="./assets/banner.png" alt="banner" width="100%" />
 
 <picture>
   <source srcset="./assets/profile-animated.svg" type="image/svg+xml">
