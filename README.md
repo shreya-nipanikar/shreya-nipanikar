@@ -1,6 +1,11 @@
 <!-- Banner: banner.png will be generated from assets/banner.svg by the workflow -->
 <img src="./assets/banner.png" alt="banner" width="100%" />
 
+<picture>
+  <source srcset="./assets/profile-animated.svg" type="image/svg+xml">
+  <img src="./assets/profile.jpg" alt="Shreya Nipanikar" width="220" />
+</picture>
+
 # Hi 👋, I'm Shreya
 **Java Full‑Stack Developer** • Spring Boot • React • Cloud
 
@@ -24,6 +29,8 @@ A passionate engineer focused on building scalable backend services and responsi
 
 ---
 
+
+
 ## Projects
 <!--PROJECTS_START-->
 
@@ -44,6 +51,4 @@ Pin your most important repos using "Customize your profile" → Pinned reposito
 - Email: nipanikar.shreya1@gmail.com
 
 ---
-Notes:
-- The Projects block will be replaced by the workflow with your top 6 most recently pushed public repos (includes repo name, link, description, and star count if present).
-- The workflow will convert assets/banner.svg → assets/banner.png so the banner displays on your profile. If you want a different banner look I can generate a PNG now or adjust the SVG.
+
