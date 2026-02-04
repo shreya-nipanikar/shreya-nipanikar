@@ -19,7 +19,7 @@
       transform: translateX(40px) scale(0.95);
       transform-origin: center;
       animation: avatarIn 0.8s cubic-bezier(.2,.9,.2,1) forwards;
-      animation-delay: 01.20s;
+      animation-delay: 01.0s;
     }
     @keyframes avatarIn { to { opacity: 1; transform: translateX(0) scale(1); } }
 
