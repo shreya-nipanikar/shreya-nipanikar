@@ -51,12 +51,6 @@
   <!-- Left area: tagline box -->
   <g class="tagline" transform="translate(300,46)">
     <rect class="tag-bg" x="-14" y="-14" width="520" height="96" rx="10" ry="10"/>
-    <text x="8" y="6" font-size="18" font-weight="700" fill="#ffffff" style="font-family:system-ui, -apple-system, 'Segoe UI', Roboto, Arial;">
-      Obsessed with dark mode. Yay!
-    </text>
-    <text x="8" y="34" font-size="14" fill="#9CA3AF" style="font-family:system-ui, -apple-system, 'Segoe UI', Roboto, Arial;">
-      True developer haha!
-    </text>
   </g>
 
   <!-- Right/Left avatar group: image fades in after tagline -->
@@ -80,5 +74,5 @@
 
   <!-- Center heading (always visible, centered on canvas) -->
   <text class="heading" x="450" y="160">Hi 👋, I'm Shreya</text>
-  <text class="sub" x="450" y="182">Java Full‑Stack Developer • Spring • React • Cloud</text>
+  <text class="heading" x="450" y="200">Obessed with dark mode. Yay! True developer haha!</text>
 </svg>
