@@ -2,10 +2,10 @@
 
 <picture>
   <source srcset="./assets/try.svg" type="image/svg+xml">
-  <img src="./assets/profile.jpg" width="600" height="600" />
+  <img src="./assets/profile.jpg" />
 </picture>
 
-# Hi 👋, I'm Shreya
+# About Me 👋
 **Java Full‑Stack Developer** • Spring Boot • React • Cloud
 
 A passionate engineer focused on building scalable backend services and responsive frontends. I work with Java, the Spring ecosystem, REST APIs, and modern web UI technologies.
