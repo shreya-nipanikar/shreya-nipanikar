@@ -1,7 +1,7 @@
 <!-- Banner: banner.png will be generated from assets/banner.svg by the workflow -->
 
 <picture>
-  <source srcset="./assets/profile-animated.svg" type="image/svg+xml">
+  <source srcset="./assets/try.svg" type="image/svg+xml">
   <img src="./assets/profile.jpg" width="220" />
 </picture>
 
