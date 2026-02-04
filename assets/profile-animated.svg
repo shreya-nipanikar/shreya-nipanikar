@@ -65,10 +65,10 @@
   <text class="heading" x="450" y="160">Hi 👋, I'm Shreya</text>
   <text class="subtext" x="450" y="182">Obessed with dark mode. Yay! Your True developer haha!</text>
 
-  <!-- Keep ring rotation animation (drawn again inside same group so its movement matches avatarWrap) -->
+  <!-- Keep ring rotation animation (drawn again inside same group so its movement matches avatarWrap) 
   <g class="avatarWrap" transform="translate(0,0)" aria-hidden="true">
     <circle class="ring" cx="150" cy="120" r="92" stroke="var(--accent-dark)"/>
     <animate attributeName="stroke-dashoffset" from="0" to="120" dur="2.5s" repeatCount="indefinite" />
-  </g>
+  </g>-->
   
 </svg>
