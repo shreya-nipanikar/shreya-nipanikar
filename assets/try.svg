@@ -9,7 +9,7 @@
       opacity: 0;
       transform: translateX(-30px);
       animation: taglineIn 0.7s cubic-bezier(.2,.9,.2,1) forwards;
-      animation-delay: 0.1s;
+      animation-delay: 0.10s;
     }
     @keyframes taglineIn { to { opacity: 1; transform: translateX(0); } }
 
@@ -19,7 +19,7 @@
       transform: translateX(40px) scale(0.95);
       transform-origin: center;
       animation: avatarIn 0.8s cubic-bezier(.2,.9,.2,1) forwards;
-      animation-delay: 0.95s;
+      animation-delay: 10.10s;
     }
     @keyframes avatarIn { to { opacity: 1; transform: translateX(0) scale(1); } }
 
