@@ -4,8 +4,8 @@
   <source srcset="./assets/try.svg" type="image/svg+xml">
   <img src="./assets/profile.jpg" />
 </picture>
-
-# About Me 👋
+ 
+# About Me 👋  &nbsp; | &nbsp; ![](https://komarev.com/ghpvc/?username=YOURUSERNAME)                                                                            
 **Java Full‑Stack Developer** • Spring Boot • React • Cloud
 
 A passionate engineer focused on building scalable backend services and responsive frontends. I work with Java, the Spring ecosystem, REST APIs, and modern web UI technologies.
