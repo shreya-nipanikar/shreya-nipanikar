@@ -39,22 +39,6 @@ Java Full-Stack Developer specializing in **microservices architecture** and sca
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23FF6B00?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
-
-## Certifications
-
-<p align="center">
-
-<a href="CERT_LINK">
-<img src="./assets/aws-cert.png" width="250"/>
-</a>
-
-<a href="CERT_LINK">
-<img src="./assets/data-cert.png" width="250"/>
-</a>
-
-</p>
-
-
 ## Connect with me
 - LinkedIn: [shreya-nipanikar](https://www.linkedin.com/in/shreya-nipanikar/)
 - LeetCode: [ShreyaNipanikar](https://leetcode.com/u/ShreyaNipanikar/)
