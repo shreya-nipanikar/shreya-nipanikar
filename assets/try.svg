@@ -77,6 +77,6 @@
   </g>
 
   <!-- Center heading (always visible, centered on canvas) -->
-  <text class="heading" x="450" y="160">Hi 👋, I'm Shreya</text>
+  <text class="heading" x="450" y="160">Hi 👋 I'm Shreya</text>
   <text class="heading" x="450" y="230">Obessed with dark mode. Yay! True developer haha!</text>
 </svg>
